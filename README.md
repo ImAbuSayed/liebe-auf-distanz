@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/liebe-auf-distanz/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Liebe auf Distanz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-auf-distanz/) |
+| **Get License** | [Commercial Licensing for Liebe auf Distanz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-auf-distanz/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4b008e1524f9c0cc4d8ee6e5af9c11bcb2a5b7b47f2086a24c4d53114e712026` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
