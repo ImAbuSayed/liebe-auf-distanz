@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/liebe-auf-distanz/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Liebe auf Distanz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-auf-distanz/) |
+| **Get License** | [Get a Licensing Quote for Liebe auf Distanz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-auf-distanz/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Zweihundert auf dem Tacho, doch mein Kopf ist bei dir
+> Scheiß auf die Distanz, Baby, ich hol' dich zu mir
+> Die Skyline verschwindet, wenn ich Gas geb' bei Nacht
+> Du bist die Eine, die mich süchtig macht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
